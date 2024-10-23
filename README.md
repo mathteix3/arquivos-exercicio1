@@ -1,0 +1,2 @@
+# arquivos-exercicio1
+ Write a program to read the path of a .csv file containing data on items sold. Each item has a name, unit price and quantity, separated by commas. You must generate a new file called "summary.csv", located in a subfolder "out" from the original folder of the source file, containing only the name and total value for that item (unit price multiplied by quantity), as shown in the example.
